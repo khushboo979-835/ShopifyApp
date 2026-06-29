@@ -403,3 +403,10 @@
 {"level":"http","message":"::1 - - [29/Jun/2026:06:23:27 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 200 1031 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:53:27"}
 {"level":"http","message":"::1 - - [29/Jun/2026:06:23:27 +0000] \"GET /api/announcements/active HTTP/1.1\" 200 260 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:53:27"}
 {"level":"http","message":"::1 - - [29/Jun/2026:06:23:27 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:53:27"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 12:02:48"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 12:02:48"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 12:02:48"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 12:02:48"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 12:02:48"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 12:02:48"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 12:02:48"}
