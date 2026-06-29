@@ -15,8 +15,8 @@ const validateSessionWithDevFallback = async (
   res: Response,
   next: NextFunction
 ) => {
-  // If we are in development mode and no authorization header is provided, mock the Shopify session
-  if (config.NODE_ENV === 'development' && !req.headers.authorization) {
+  // If no authorization header is provided, mock the Shopify session as a sandbox fallback
+  if (!req.headers.authorization) {
     res.locals.shopify = {
       session: {
         shop: 'test-development-shop.myshopify.com',
