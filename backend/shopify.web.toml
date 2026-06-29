@@ -1,0 +1,7 @@
+# Configuration for the backend web service
+name = "backend"
+roles = ["backend"]
+port = 5000
+
+[commands]
+dev = "npm run dev"

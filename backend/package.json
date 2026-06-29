@@ -1,0 +1,54 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Production-ready Node.js/Express API with TypeScript, MongoDB, JWT auth, rate limiting, and validation.",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "nodemon src/server.ts",
+    "lint": "eslint . --ext .ts",
+    "format": "prettier --write .",
+    "prebuild": "rimraf dist",
+    "postbuild": "echo Build completed"
+  },
+  "dependencies": {
+    "@shopify/shopify-api": "^13.1.0",
+    "@shopify/shopify-app-express": "^7.0.1",
+    "@shopify/shopify-app-session-storage-mongodb": "^6.0.1",
+    "axios": "^1.18.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "envalid": "^7.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.0.2",
+    "helmet": "^7.0.0",
+    "joi": "^17.11.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.3",
+    "morgan": "^1.11.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/cors": "^2.8.15",
+    "@types/express": "^4.17.19",
+    "@types/jsonwebtoken": "^9.0.4",
+    "@types/morgan": "^1.9.10",
+    "@types/node": "^20.8.3",
+    "@typescript-eslint/eslint-plugin": "^6.8.0",
+    "@typescript-eslint/parser": "^6.8.0",
+    "eslint": "^8.51.0",
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.3",
+    "rimraf": "^5.0.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}

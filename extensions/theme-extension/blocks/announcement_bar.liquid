@@ -1,0 +1,105 @@
+{%- comment -%}
+  Shopify Theme App Extension: Global Announcement Bar Embed Block.
+  Reads the metafield namespace 'my_app' and key 'announcement' set by our Express API.
+  Handles both raw string formats and typed single_line_text_field values (.value) gracefully.
+{%- endcomment -%}
+
+{%- assign announcement_text = shop.metafields.my_app.announcement.value -%}
+{%- if announcement_text == blank -%}
+  {%- assign announcement_text = shop.metafields.my_app.announcement -%}
+{%- endif -%}
+
+{%- if announcement_text != blank -%}
+  <div class="shopify-announcement-bar-floating" style="
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 99999;
+    background-color: {{ block.settings.bg_color }};
+    color: {{ block.settings.text_color }};
+    text-align: {{ block.settings.alignment }};
+    padding: {{ block.settings.padding }}px 0;
+    font-size: {{ block.settings.font_size }}px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+    transition: all 0.3s ease;
+    width: 100%;
+  ">
+    <div style="max-width: 1200px; margin: 0 auto; padding: 0 15px;">
+      {{ announcement_text }}
+    </div>
+  </div>
+
+  {%- comment -%}
+    Push the page content body down dynamically by the height of the banner
+    so that it does not overlay or cover the theme's header menu.
+  {%- endcomment -%}
+  <style>
+    body {
+      padding-top: calc({{ block.settings.padding | times: 2 }}px + {{ block.settings.font_size }}px + 12px) !important;
+    }
+  </style>
+{%- endif -%}
+
+{% schema %}
+{
+  "name": "Global Announcement Bar",
+  "target": "body",
+  "settings": [
+    {
+      "type": "color",
+      "id": "bg_color",
+      "label": "Background Color",
+      "default": "#1b1b1f"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text Color",
+      "default": "#ffffff"
+    },
+    {
+      "type": "select",
+      "id": "alignment",
+      "label": "Text Alignment",
+      "options": [
+        {
+          "value": "left",
+          "label": "Left"
+        },
+        {
+          "value": "center",
+          "label": "Center"
+        },
+        {
+          "value": "right",
+          "label": "Right"
+        }
+      ],
+      "default": "center"
+    },
+    {
+      "type": "range",
+      "id": "font_size",
+      "min": 10,
+      "max": 24,
+      "step": 1,
+      "unit": "px",
+      "label": "Font Size",
+      "default": 14
+    },
+    {
+      "type": "range",
+      "id": "padding",
+      "min": 4,
+      "max": 24,
+      "step": 2,
+      "unit": "px",
+      "label": "Vertical Padding",
+      "default": 10
+    }
+  ]
+}
+{% endschema %}

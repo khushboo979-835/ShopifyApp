@@ -1,0 +1,63 @@
+{% if shop.metafields.my_app.announcement.value != blank %}
+  <div class="shopify-announcement-banner">
+    <div class="shopify-announcement-banner-content">
+      {{ shop.metafields.my_app.announcement.value }}
+    </div>
+  </div>
+
+  <style>
+    .shopify-announcement-banner {
+      background-color: #1b1b1f;
+      color: #ffffff;
+      padding: 12px 24px;
+      text-align: center;
+      font-size: 14px;
+      font-weight: 600;
+      position: relative;
+      z-index: 9999;
+      width: 100%;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      box-sizing: border-box;
+    }
+    .shopify-announcement-banner-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      word-wrap: break-word;
+    }
+  </style>
+{% elsif shop.metafields.my_app.announcement != blank %}
+  <div class="shopify-announcement-banner">
+    <div class="shopify-announcement-banner-content">
+      {{ shop.metafields.my_app.announcement }}
+    </div>
+  </div>
+
+  <style>
+    .shopify-announcement-banner {
+      background-color: #1b1b1f;
+      color: #ffffff;
+      padding: 12px 24px;
+      text-align: center;
+      font-size: 14px;
+      font-weight: 600;
+      position: relative;
+      z-index: 9999;
+      width: 100%;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      box-sizing: border-box;
+    }
+    .shopify-announcement-banner-content {
+      max-width: 1200px;
+      margin: 0 auto;
+      word-wrap: break-word;
+    }
+  </style>
+{% endif %}
+
+{% schema %}
+{
+  "name": "Announcement Banner",
+  "target": "body",
+  "settings": []
+}
+{% endschema %}

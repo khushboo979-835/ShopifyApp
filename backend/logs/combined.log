@@ -1,0 +1,405 @@
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-27 23:51:14"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-27 23:51:14"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-27 23:51:14"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-27 23:51:19"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-27 23:53:59"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-27 23:56:40"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-27 23:57:12"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-27 23:57:12"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-27 23:57:12"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-27 23:57:12"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-27 23:57:19"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-27 23:58:38"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-27 23:59:17"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-27 23:59:17"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-27 23:59:17"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-27 23:59:17"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-27 23:59:23"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-28 00:11:47"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-28 00:11:47"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-28 00:11:47"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-28 00:11:47"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-28 00:11:49"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-28 00:11:49"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-28 00:11:49"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-28 00:11:49"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:00:08 +0000] \"POST /api/auth/login HTTP/1.1\" 401 378 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:30:08"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:00:24 +0000] \"POST /api/auth/login HTTP/1.1\" 401 378 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:30:24"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-28 00:32:09"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-28 00:32:20"}
+{"level":"info","message":"♻️ MongoDB reconnected successfully.","timestamp":"2026-06-28 00:32:20"}
+{"level":"info","message":"User registered successfully: khushbookumari2004@gmail.com","timestamp":"2026-06-28 00:32:58"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:02:58 +0000] \"POST /api/auth/register HTTP/1.1\" 201 695 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:32:58"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:03:11 +0000] \"GET /api/auth/me HTTP/1.1\" 200 177 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:33:11"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:03:11 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:33:11"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:03:14 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:33:14"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:03:14 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:33:14"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:03:26 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:33:26"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:03:26 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:33:26"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:03:50 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:33:50"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:03:50 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:33:50"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:10:07 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:40:07"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:10:07 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:40:07"}
+{"level":"info","message":"User logged in: khushbookumari2004@gmail.com","timestamp":"2026-06-28 00:40:36"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:10:36 +0000] \"POST /api/auth/login HTTP/1.1\" 200 689 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:40:36"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-28 00:45:47"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-28 00:45:47"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-28 00:45:47"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-28 00:45:47"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-28 00:45:48"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-28 00:45:48"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-28 00:45:48"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-28 00:45:48"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:19:00 +0000] \"GET /api/auth/me HTTP/1.1\" 200 177 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:49:00"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:19:00 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:49:00"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:19:28 +0000] \"POST /api/auth/login HTTP/1.1\" 401 302 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:49:28"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:19:28 +0000] \"POST /api/auth/refresh-token HTTP/1.1\" 200 584 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:49:28"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:19:28 +0000] \"POST /api/auth/login HTTP/1.1\" 401 302 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:49:28"}
+{"level":"info","message":"User logged in: khushbookumari2004@gmail.com","timestamp":"2026-06-28 00:49:46"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:19:46 +0000] \"POST /api/auth/login HTTP/1.1\" 200 689 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:49:46"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:24:18 +0000] \"GET /api/auth/me HTTP/1.1\" 200 177 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:54:18"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:24:18 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 00:54:18"}
+{"level":"warn","message":"🛑 Shutting down server gracefully...","timestamp":"2026-06-28 01:23:45"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-28 01:23:45"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-28 01:24:01"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-28 01:24:02"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-28 01:24:02"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-28 01:24:02"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-28 01:24:03"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-28 01:24:03"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-28 01:24:03"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-28 01:24:03"}
+{"level":"warn","message":"Failed authentication attempt: jwt expired","timestamp":"2026-06-28 01:24:39"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:54:39 +0000] \"GET /api/auth/me HTTP/1.1\" 401 1266 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:24:39"}
+{"level":"warn","message":"Failed authentication attempt: jwt expired","timestamp":"2026-06-28 01:24:39"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:54:39 +0000] \"GET /api/auth/me HTTP/1.1\" 401 1266 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:24:39"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:54:39 +0000] \"POST /api/auth/refresh-token HTTP/1.1\" 200 584 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:24:39"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:54:39 +0000] \"GET /api/auth/me HTTP/1.1\" 200 177 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:24:39"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:54:39 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:24:39"}
+{"level":"info","message":"User logged in: khushbookumari2004@gmail.com","timestamp":"2026-06-28 01:25:03"}
+{"level":"http","message":"::1 - - [27/Jun/2026:19:55:03 +0000] \"POST /api/auth/login HTTP/1.1\" 200 689 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:25:03"}
+{"level":"info","message":"User logged out successfully: 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:32:27"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:02:27 +0000] \"POST /api/auth/logout HTTP/1.1\" 200 64 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:32:27"}
+{"level":"info","message":"User logged in: khushbookumari2004@gmail.com","timestamp":"2026-06-28 01:32:54"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:02:55 +0000] \"POST /api/auth/login HTTP/1.1\" 200 689 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:32:55"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:03:13 +0000] \"GET /api/auth/shopify/url?shop=khushbookumari2004%40gmail.com HTTP/1.1\" 400 1363 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:33:13"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:03:33 +0000] \"GET /api/auth/shopify/url?shop=khushbookumari2004%40gmail.com HTTP/1.1\" 400 1363 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:33:33"}
+{"level":"info","message":"🔗 Shopify store khushbookumari2004@gmail.com successfully linked to user ID 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:33:35"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:03:35 +0000] \"POST /api/announcements/link-store HTTP/1.1\" 200 81 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:33:35"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:03:35 +0000] \"GET /api/auth/me HTTP/1.1\" 200 177 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:33:35"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:03:56 +0000] \"GET /api/auth/shopify/url?shop=khushbookumari2004%40gmail.com HTTP/1.1\" 400 1363 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:33:56"}
+{"level":"info","message":"🔗 Shopify store khushbookumari2004@gmail.com successfully linked to user ID 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:34:19"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:04:19 +0000] \"POST /api/announcements/link-store HTTP/1.1\" 200 81 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:34:19"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:04:19 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:34:19"}
+{"level":"info","message":"🔑 Generated OAuth URL for shop: khushboo-store.myshopify.com, User ID: 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:36:59"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:06:59 +0000] \"GET /api/auth/shopify/url?shop=khushboo-store.myshopify.com HTTP/1.1\" 200 356 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:36:59"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:10:05 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:40:05"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:10:05 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:40:05"}
+{"level":"info","message":"🔗 Shopify store khushboostore.myshopify.com successfully linked to user ID 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:41:07"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:11:07 +0000] \"POST /api/announcements/link-store HTTP/1.1\" 200 81 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:41:07"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:11:07 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:41:07"}
+{"level":"info","message":"🔑 Generated OAuth URL for shop: khushboostore.myshopify.com, User ID: 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:41:19"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:11:19 +0000] \"GET /api/auth/shopify/url?shop=khushboostore.myshopify.com HTTP/1.1\" 200 355 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:41:19"}
+{"level":"warn","message":"🛑 Shutting down server gracefully...","timestamp":"2026-06-28 01:45:13"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-28 01:45:13"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-28 01:45:30"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-28 01:45:30"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-28 01:45:30"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-28 01:45:30"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-28 01:45:31"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-28 01:45:31"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-28 01:45:31"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-28 01:45:31"}
+{"level":"warn","message":"Failed authentication attempt: jwt expired","timestamp":"2026-06-28 01:48:15"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:18:15 +0000] \"GET /api/auth/me HTTP/1.1\" 401 1266 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:48:15"}
+{"level":"warn","message":"Failed authentication attempt: jwt expired","timestamp":"2026-06-28 01:48:15"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:18:15 +0000] \"GET /api/auth/me HTTP/1.1\" 401 1266 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:48:15"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:18:15 +0000] \"POST /api/auth/refresh-token HTTP/1.1\" 200 584 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:48:15"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:18:15 +0000] \"GET /api/auth/me HTTP/1.1\" 200 177 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:48:15"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:18:15 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:48:15"}
+{"level":"info","message":"User logged in: khushbookumari2004@gmail.com","timestamp":"2026-06-28 01:48:41"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:18:41 +0000] \"POST /api/auth/login HTTP/1.1\" 200 734 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:48:41"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:18:43 +0000] \"GET /api/announcements/active HTTP/1.1\" 200 143 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:48:43"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:18:44 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 200 112 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:48:44"}
+{"level":"info","message":"📁 Saved new announcement update to audit database for khushboostore.myshopify.com","timestamp":"2026-06-28 01:49:13"}
+{"level":"info","message":"🔄 Syncing announcement metafield to Shopify for store: khushboostore.myshopify.com...","timestamp":"2026-06-28 01:49:13"}
+{"level":"error","message":"❌ Shopify Metafield Sync Failed for khushboostore.myshopify.com: \"Not Found\"","timestamp":"2026-06-28 01:49:13"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:19:13 +0000] \"POST /api/announcements HTTP/1.1\" 404 570 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:49:13"}
+{"level":"info","message":"🔑 Generated OAuth URL for shop: khushboostore.myshopify.com, User ID: 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:49:18"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:19:18 +0000] \"GET /api/auth/shopify/url?shop=khushboostore.myshopify.com HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:49:18"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:19:34 +0000] \"GET /api/auth/me HTTP/1.1\" 200 177 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:49:34"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:19:34 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:49:34"}
+{"level":"info","message":"🔑 Generated OAuth URL for shop: khushboo-store.myshopify.com, User ID: 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:50:54"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:20:54 +0000] \"GET /api/auth/shopify/url?shop=khushboo-store.myshopify.com HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:50:54"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:21:07 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:51:07"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:21:07 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:51:07"}
+{"level":"info","message":"🔗 Shopify store khushboo-store.myshopify.com successfully linked to user ID 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:51:36"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:21:36 +0000] \"POST /api/announcements/link-store HTTP/1.1\" 200 81 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:51:36"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:21:36 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:51:36"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:24:02 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:54:02"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:24:02 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:54:02"}
+{"level":"warn","message":"🛑 Shutting down server gracefully...","timestamp":"2026-06-28 01:54:10"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-28 01:54:10"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-28 01:54:23"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-28 01:54:23"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-28 01:54:23"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-28 01:54:23"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-28 01:54:24"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-28 01:54:24"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-28 01:54:24"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-28 01:54:24"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:24:50 +0000] \"GET /api/auth/me HTTP/1.1\" 200 343 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:54:50"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:24:50 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:54:50"}
+{"level":"info","message":"User logged in: khushbookumari2004@gmail.com","timestamp":"2026-06-28 01:55:38"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:25:38 +0000] \"POST /api/auth/login HTTP/1.1\" 200 735 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:55:38"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:25:41 +0000] \"GET /api/announcements/active HTTP/1.1\" 200 144 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:55:41"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:25:41 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:55:41"}
+{"level":"info","message":"📁 Saved new announcement update to audit database for khushboo-store.myshopify.com","timestamp":"2026-06-28 01:56:46"}
+{"level":"info","message":"🔄 Syncing announcement metafield to Shopify for store: khushboo-store.myshopify.com...","timestamp":"2026-06-28 01:56:46"}
+{"level":"error","message":"❌ Shopify Metafield Sync Failed for khushboo-store.myshopify.com: \"Not Found\"","timestamp":"2026-06-28 01:56:46"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:26:46 +0000] \"POST /api/announcements HTTP/1.1\" 404 570 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:56:46"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-28 01:57:37"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-28 01:57:37"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-28 01:57:37"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-28 01:57:37"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-28 01:57:38"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-28 01:57:38"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-28 01:57:38"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-28 01:57:38"}
+{"level":"info","message":"🔗 Shopify store khushboo-store.myshopify.com successfully linked to user ID 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:58:49"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:28:49 +0000] \"POST /api/announcements/link-store HTTP/1.1\" 200 81 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:58:49"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:28:49 +0000] \"GET /api/auth/me HTTP/1.1\" 200 342 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:58:49"}
+{"level":"info","message":"🔗 Shopify store khushboo-store.myshopify.com successfully linked to user ID 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:59:32"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:29:32 +0000] \"POST /api/announcements/link-store HTTP/1.1\" 200 81 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:59:32"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:29:32 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:59:32"}
+{"level":"info","message":"🔑 Generated OAuth URL for shop: khushboo-store.myshopify.com, User ID: 6a401e620f6434558c2385a7","timestamp":"2026-06-28 01:59:41"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:29:41 +0000] \"GET /api/auth/shopify/url?shop=khushboo-store.myshopify.com HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 01:59:41"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:30:33 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 02:00:33"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:30:33 +0000] \"GET /api/auth/me HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 02:00:33"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:30:33 +0000] \"GET /api/announcements/active HTTP/1.1\" 200 255 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 02:00:33"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:30:33 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 200 290 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 02:00:33"}
+{"level":"info","message":"🔗 Shopify store khushboo-store.myshopify.com successfully linked to user ID 6a401e620f6434558c2385a7","timestamp":"2026-06-28 02:01:48"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:31:48 +0000] \"POST /api/announcements/link-store HTTP/1.1\" 200 81 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 02:01:48"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:31:48 +0000] \"GET /api/auth/me HTTP/1.1\" 200 343 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 02:01:48"}
+{"level":"info","message":"🔑 Generated OAuth URL for shop: khushboo-store.myshopify.com, User ID: 6a401e620f6434558c2385a7","timestamp":"2026-06-28 02:02:08"}
+{"level":"http","message":"::1 - - [27/Jun/2026:20:32:08 +0000] \"GET /api/auth/shopify/url?shop=khushboo-store.myshopify.com HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-28 02:02:08"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-28 02:12:38"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-28 02:12:38"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-28 02:12:38"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-28 02:12:38"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-28 02:12:39"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-28 02:12:39"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-28 02:12:39"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-28 02:12:39"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-29 00:31:50"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 00:31:50"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 00:31:50"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-29 00:31:50"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-29 00:31:56"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-29 00:37:32"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 00:37:32"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 00:37:32"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-29 00:37:32"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-29 00:37:37"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-29 00:43:49"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 00:43:49"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 00:43:49"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-29 00:43:49"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-29 00:43:54"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-29 00:53:16"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 00:53:16"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 00:53:16"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-29 00:53:16"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 00:53:18"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 00:53:18"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 00:53:18"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 00:53:18"}
+{"level":"info","message":"User registered successfully: neha@123gmail.com","timestamp":"2026-06-29 00:54:41"}
+{"level":"http","message":"::1 - - [28/Jun/2026:19:24:41 +0000] \"POST /api/auth/register HTTP/1.1\" 201 659 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 00:54:41"}
+{"level":"info","message":"🔑 Generated OAuth URL for shop: neha-store.myshopify.com, User ID: 6a4174f8696495452cfc01e6","timestamp":"2026-06-29 00:56:58"}
+{"level":"http","message":"::1 - - [28/Jun/2026:19:26:58 +0000] \"GET /api/auth/shopify/url?shop=neha-store.myshopify.com HTTP/1.1\" 200 352 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 00:56:58"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-29 01:50:12"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 01:50:22"}
+{"level":"info","message":"♻️ MongoDB reconnected successfully.","timestamp":"2026-06-29 01:50:22"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-29 01:50:53"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 01:50:53"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 01:50:53"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-29 01:50:53"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 01:50:54"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 01:50:54"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 01:50:54"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 01:50:54"}
+{"level":"info","message":"All routes mounted successfully","timestamp":"2026-06-29 01:51:21"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 01:51:21"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 01:51:21"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-29 01:51:21"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 01:51:24"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 01:51:24"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 01:51:24"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 01:51:24"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 01:51:48"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 01:51:48"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 01:51:48"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-29 01:51:48"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 06:32:10"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 06:34:20"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 06:34:20"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 06:34:20"}
+{"level":"info","message":"📡 Configured explicit DNS servers (1.1.1.1, 8.8.8.8) for database SRV resolution.","timestamp":"2026-06-29 06:34:20"}
+{"date":"Mon Jun 29 2026 06:34:20 GMT+0530 (India Standard Time)","error":{"code":"ECONNREFUSED","hostname":"_mongodb._tcp.cluster0.lmmwm93.mongodb.net","syscall":"querySrv"},"level":"error","message":"unhandledRejection: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lmmwm93.mongodb.net\nError: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lmmwm93.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","os":{"loadavg":[0,0,0],"uptime":116396.968},"process":{"argv":["C:\\Users\\ECS\\Desktop\\myapp\\backend\\node_modules\\ts-node\\dist\\bin.js","C:\\Users\\ECS\\Desktop\\myapp\\backend\\src\\server.ts"],"cwd":"C:\\Users\\ECS\\Desktop\\myapp\\backend","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":41244886,"external":48494597,"heapTotal":354639872,"heapUsed":252392528,"rss":428408832},"pid":17856,"uid":null,"version":"v24.16.0"},"rejection":true,"stack":"Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.lmmwm93.mongodb.net\n    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:294:17)","timestamp":"2026-06-29 06:34:20","trace":[{"column":17,"file":"node:internal/dns/promises","function":"QueryReqWrap.onresolve [as oncomplete]","line":294,"method":"onresolve [as oncomplete]","native":false}]}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 06:35:46"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 06:35:46"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 06:35:46"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 06:35:53"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 06:35:53"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 06:35:53"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-29 06:35:53"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 06:37:08"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 06:37:08"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 06:37:08"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-29 06:37:08"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 06:38:29"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 06:38:29"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 06:38:29"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 06:38:53"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 06:38:53"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 06:38:53"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 06:38:54"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 06:38:54"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 06:38:54"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 06:38:54"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 06:39:35"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 06:39:35"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 06:39:35"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 06:39:36"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 06:39:36"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 06:39:36"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 06:39:36"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:13:01 +0000] \"POST /api/announcements HTTP/1.1\" 302 46 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:43:01"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:13:01 +0000] \"GET /api/auth?shop=undefined HTTP/1.1\" 500 16 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:43:01"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-29 06:55:01"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:25:11 +0000] \"POST /api/announcements HTTP/1.1\" 302 46 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:55:11"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:25:11 +0000] \"GET /api/auth?shop=undefined HTTP/1.1\" 500 16 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:55:11"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 06:55:12"}
+{"level":"info","message":"♻️ MongoDB reconnected successfully.","timestamp":"2026-06-29 06:55:12"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:25:53 +0000] \"POST /api/announcements HTTP/1.1\" 302 46 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:55:53"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:25:53 +0000] \"GET /api/auth?shop=undefined HTTP/1.1\" 500 16 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:55:53"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 06:56:43"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 06:56:43"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 06:56:43"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 06:56:44"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 06:56:44"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 06:56:44"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 06:56:44"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:27:12 +0000] \"POST /api/announcements HTTP/1.1\" 302 46 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:57:12"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:27:12 +0000] \"GET /api/auth?shop=undefined HTTP/1.1\" 400 1762 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:57:12"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:27:13 +0000] \"POST /api/announcements HTTP/1.1\" 302 46 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:57:13"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:27:13 +0000] \"GET /api/auth?shop=undefined HTTP/1.1\" 400 1762 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:57:13"}
+{"level":"warn","message":"🛑 Shutting down server gracefully...","timestamp":"2026-06-29 06:57:24"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-29 06:57:24"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 06:57:45"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 06:57:45"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 06:57:45"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 06:57:46"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 06:57:46"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 06:57:46"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 06:57:46"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:28:38 +0000] \"GET /api/announcements/active HTTP/1.1\" 302 46 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:58:38"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:28:38 +0000] \"GET /api/auth?shop=undefined HTTP/1.1\" 400 1762 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:58:38"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:29:18 +0000] \"POST /api/announcements HTTP/1.1\" 302 46 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:59:18"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:29:18 +0000] \"GET /api/auth?shop=undefined HTTP/1.1\" 400 1762 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 06:59:18"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 07:00:47"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 07:00:47"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 07:00:47"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 07:00:48"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 07:00:48"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 07:00:48"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 07:00:48"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 07:01:09"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 07:01:09"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 07:01:09"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 07:01:10"}
+{"level":"info","message":"✨ Local mock shop detected. Skipping remote Shopify API metafield sync.","timestamp":"2026-06-29 07:01:42"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:31:42 +0000] \"POST /api/announcements HTTP/1.1\" 200 264 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:01:42"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:31:43 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 200 295 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:01:43"}
+{"level":"info","message":"✨ Local mock shop detected. Skipping remote Shopify API metafield sync.","timestamp":"2026-06-29 07:02:12"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:32:12 +0000] \"POST /api/announcements HTTP/1.1\" 200 264 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:02:12"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:32:12 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 200 479 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:02:12"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 07:12:39"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 07:12:39"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 07:12:39"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 07:12:39"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 07:12:39"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 07:12:39"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 07:12:39"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:43:53 +0000] \"GET /api/announcements/active HTTP/1.1\" 200 260 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:13:53"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:43:54 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:13:54"}
+{"level":"warn","message":"🛑 Shutting down server gracefully...","timestamp":"2026-06-29 07:16:04"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-29 07:16:04"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 07:16:17"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 07:16:17"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 07:16:17"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 07:16:18"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 07:16:18"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 07:16:18"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 07:16:18"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:46:54 +0000] \"GET /api/announcements/active HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:16:54"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:46:55 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:16:55"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:47:03 +0000] \"GET /api/announcements/active HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:17:03"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:47:03 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:17:03"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:47:04 +0000] \"GET /api/announcements/active HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:17:04"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:47:04 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:17:04"}
+{"level":"info","message":"✨ Local mock shop detected. Skipping remote Shopify API metafield sync.","timestamp":"2026-06-29 07:17:12"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:47:12 +0000] \"POST /api/announcements HTTP/1.1\" 200 264 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:17:12"}
+{"level":"http","message":"::1 - - [29/Jun/2026:01:47:12 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 200 663 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:17:12"}
+{"level":"http","message":"::1 - - [29/Jun/2026:02:04:29 +0000] \"GET /api/announcements/active HTTP/1.1\" 200 260 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:34:29"}
+{"level":"http","message":"::1 - - [29/Jun/2026:02:04:29 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:34:29"}
+{"level":"info","message":"✨ Local mock shop detected. Skipping remote Shopify API metafield sync.","timestamp":"2026-06-29 07:34:41"}
+{"level":"http","message":"::1 - - [29/Jun/2026:02:04:41 +0000] \"POST /api/announcements HTTP/1.1\" 200 264 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:34:41"}
+{"level":"http","message":"::1 - - [29/Jun/2026:02:04:41 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 200 847 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 07:34:41"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 07:35:13"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 07:35:13"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 07:35:13"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 07:35:14"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 07:35:14"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 07:35:14"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 07:35:14"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 11:31:05"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 11:31:05"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 11:31:05"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 11:31:05"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 11:31:05"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 11:31:05"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 11:31:05"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:03:36 +0000] \"GET /api/announcements/active HTTP/1.1\" 200 260 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:33:36"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:03:36 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:33:36"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:08:11 +0000] \"GET /api/announcements/active HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:38:11"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:08:11 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:38:11"}
+{"level":"info","message":"✨ Local mock shop detected. Skipping remote Shopify API metafield sync.","timestamp":"2026-06-29 11:38:21"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:08:21 +0000] \"POST /api/announcements HTTP/1.1\" 200 264 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:38:21"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:08:21 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 200 1031 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:38:21"}
+{"level":"warn","message":"🛑 Shutting down server gracefully...","timestamp":"2026-06-29 11:47:37"}
+{"level":"warn","message":"⚠️ MongoDB disconnected. Mongoose will automatically attempt to reconnect.","timestamp":"2026-06-29 11:47:37"}
+{"level":"info","message":"Shopify announcement routes mounted successfully","timestamp":"2026-06-29 11:47:50"}
+{"level":"info","message":"🔍 Debug: connectDatabase() function reached!","timestamp":"2026-06-29 11:47:50"}
+{"level":"info","message":"🔌 Attempting to connect to MongoDB...","timestamp":"2026-06-29 11:47:50"}
+{"level":"info","message":"✅ MongoDB Atlas Cloud Database connected successfully!","timestamp":"2026-06-29 11:47:50"}
+{"level":"info","message":"🚀 Server running on port 5000 in development mode","timestamp":"2026-06-29 11:47:50"}
+{"level":"info","message":"📡 API URL: http://localhost:5000/api","timestamp":"2026-06-29 11:47:50"}
+{"level":"info","message":"❤️  Health check: http://localhost:5000/health","timestamp":"2026-06-29 11:47:50"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:18:18 +0000] \"GET /api/announcements/active HTTP/1.1\" 200 260 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:48:18"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:18:19 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:48:19"}
+{"level":"info","message":"✨ Local mock shop detected. Skipping remote Shopify API metafield sync.","timestamp":"2026-06-29 11:48:37"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:18:37 +0000] \"POST /api/announcements HTTP/1.1\" 200 264 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:48:37"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:18:37 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 200 1031 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:48:37"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:18:45 +0000] \"GET /api/announcements/active HTTP/1.1\" 200 260 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:48:45"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:18:45 +0000] \"GET /api/announcements/history?page=2&limit=5 HTTP/1.1\" 200 295 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:48:45"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:18:50 +0000] \"GET /api/announcements/active HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:48:50"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:18:50 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:48:50"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:18:52 +0000] \"GET /api/announcements/active HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:48:52"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:18:52 +0000] \"GET /api/announcements/history?page=2&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:48:52"}
+{"level":"info","message":"✨ Local mock shop detected. Skipping remote Shopify API metafield sync.","timestamp":"2026-06-29 11:53:27"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:23:27 +0000] \"POST /api/announcements HTTP/1.1\" 200 264 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:53:27"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:23:27 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 200 1031 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:53:27"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:23:27 +0000] \"GET /api/announcements/active HTTP/1.1\" 200 260 \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:53:27"}
+{"level":"http","message":"::1 - - [29/Jun/2026:06:23:27 +0000] \"GET /api/announcements/history?page=1&limit=5 HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.126.0 Chrome/148.0.7778.97 Electron/42.2.0 Safari/537.36\"","timestamp":"2026-06-29 11:53:27"}

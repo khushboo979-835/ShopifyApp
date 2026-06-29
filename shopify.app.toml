@@ -1,0 +1,21 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+name = "Shopify Announcement App"
+client_id = "" # This is populated automatically by Shopify CLI during link/dev
+application_url = "https://example.com" # Updated automatically by Shopify CLI tunnel
+embedded = true
+
+[access_scopes]
+# Scopes: write_metafields, read_metafields, write_themes, read_themes
+scopes = "write_metafields,read_metafields,write_themes,read_themes"
+
+[auth]
+redirect_urls = [
+  "https://example.com/api/auth/callback"
+]
+
+[webhooks]
+api_version = "2024-10"
+
+[pos]
+embedded = false

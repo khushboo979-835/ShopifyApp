@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base styles */
+@layer base {
+  /* Set default font family and smooth scrolling */
+  html {
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    @apply bg-white text-secondary-900 antialiased;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Focus states for accessibility */
+  *:focus-visible {
+    outline: 2px solid theme('colors.primary.500');
+    outline-offset: 2px;
+  }
+
+  /* Ensure all interactive elements have minimum touch target size */
+  button,
+  a,
+  input[type="submit"],
+  input[type="button"],
+  .touch-target {
+    @apply min-h-[44px] min-w-[44px];
+  }
+
+  /* Improve form field appearance on mobile */
+  input,
+  textarea,
+  select {
+    @apply text-base; /* Prevents zoom on iOS */
+    font-size: 16px; /* Fallback */
+  }
+
+  /* Remove default outline but keep focus-visible */
+  input:focus,
+  textarea:focus,
+  select:focus {
+    outline: none;
+  }
+
+  /* Smooth transitions for interactive elements */
+  button,
+  a,
+  .transition-all {
+    transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 150ms;
+  }
+}
+
+/* Custom utility classes */
+@layer components {
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn-primary {
+    @apply bg-[#008060] hover:bg-[#006e52] text-white font-semibold py-2 px-4 rounded transition-colors duration-200 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .btn-secondary {
+    @apply bg-white hover:bg-[#fafafa] text-[#202223] border border-[#babfc4] font-semibold py-2 px-4 rounded transition-colors duration-200 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-2 border border-[#babfc4] rounded focus:border-[#008060] focus:ring-1 focus:ring-[#008060] transition duration-200 bg-white text-[#202223];
+  }
+
+  .input-label {
+    @apply block text-sm font-medium text-[#4a4c4e] mb-1;
+  }
+
+  .input-error {
+    @apply text-red-600 text-sm mt-1;
+  }
+}

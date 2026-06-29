@@ -1,0 +1,4 @@
+# Learn more about configuring your extension at https://shopify.dev/docs/apps/tools/cli/configuration
+
+name = "Announcement Banner"
+type = "theme"

@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "Backend Express API",
+      "path": "backend"
+    },
+    {
+      "name": "Frontend Next.js App",
+      "path": "frontend"
+    }
+  ],
+  "settings": {
+    "css.lint.unknownAtRules": "ignore"
+  }
+}
